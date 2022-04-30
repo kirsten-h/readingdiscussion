@@ -1,0 +1,47 @@
+body {
+  background-color: PowderBlue;
+}
+
+h1 {
+  color: SlateBlue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 80px;
+  text-shadow: 2px 2px 4px #808080;
+}
+
+h2 {
+  color: MediumSlateBlue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+}
+
+p.a {
+  color: Tomato;
+  background-color: SlateBlue;
+  text-align: center;
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+pre {
+  color: coral;
+  text-align: center;
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-decoration: overline underline;
+}
+
+p.b {
+   font-size:48px;
+   text-align: center;
+  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+
+</body>
